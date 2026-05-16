@@ -1,7 +1,8 @@
-# Seymour J. Metz 
-Hebrew Shmuel (שמואל בן ל״ביש)
+# Seymour J. Metz
+Hebrew: Shmuel (שמואל בן ל״ביש)
 
-Welcome to my GitHub profile! This repository showcases my work and interests.
+I write humorous and political tee shirts, mathematical papers, and
+LaTeX semantic markup packages, among other things.
 
 ## Interests
 
@@ -10,48 +11,75 @@ Welcome to my GitHub profile! This repository showcases my work and interests.
   - Musical theater
   - Opera
   - Plays
-      - Shakespear
-      - Shaw
+    - Shakespeare
+    - Shaw
 - Literature
   - Comedy of Manners
-  - Fantasy, especilly hard or humorous
+  - Fantasy, especially hard or humorous
   - Parody
   - Poetry, especially with a strong meter
   - Science fiction, especially hard
 - Mathematics
 - Music
-- Programminglanguages
+- Programming languages
 - Science
 
-## AI Profile Guidelines
+## AI guidelines
 
-These guidelines govern AI interactions and content generation for my projects:
+See [AI-Priming](https://github.com/shmuelmetz/AI-Priming) for the
+guidelines governing AI interactions and code generation for my projects.
 
-- Avoid hallucinations
-- Use available language, OS, and reference manuals to verify syntax of generated code
-- Query about and correct apparent typos
-- Normalize typography of the names LaTeX, TeX, and names derived from them
-- Do not drop one requirement to satisfy another without permission
-- Retain corrections; do not generate something, or a synonym, that was earlier flagged as incorrect
-- When asked to justify a claim, cite accessible sources if they exist, or state that it is not based on accessible sources
-- Replace middle names with initials where appropriate
-- Do not add alternate typography or Yiddish equivalents for Hebrew names unless without permission
-- Retain links when processing marked-up documents
-- Provide time estimates
-- Evaluate sources for WP:RS and provide citations in WP:CS2 form with `=` signs set off on both sides with spaces and aligned. Place title and id first, place publisher and access-date last, provide author-link parameters if an author article exists on wiki, wikilink publisher if a wiki page exists and attempt to generate section-url and url with sites that are not behind pay walls or subscription walls.
+## Repositories
+
+| Repository | Visibility |
+|------------|------------|
+| [Local-Coordinate-Spaces](https://github.com/shmuelmetz/Local-Coordinate-Spaces) — [1801.05775](https://arxiv.org/abs/1801.05775) Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery; [1906.11690](https://arxiv.org/abs/1906.11690) Towards a taxonomy of atlases and of morphisms between them | public |
+| [LaTeX-Semantic-Markup](https://github.com/shmuelmetz/LaTeX-Semantic-Markup) — Semantic markup macros written in expl3 | public |
+| [AI-Priming](https://github.com/shmuelmetz/AI-Priming) — Language-specific rule sets for priming AI engines | public |
+| [Safe-REXX](https://github.com/shmuelmetz/Safe-REXX) — Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
+| [Tools](https://github.com/shmuelmetz/Tools) — Personal tools | public |
+| [Pygments-Extensions](https://github.com/shmuelmetz/Pygments-Extensions) — Enhancements to Pygments, e.g., lexers | public |
+| [Personal](https://github.com/shmuelmetz/Personal) — Personal website, shirts, and tools | private |
+| [FT-2-to-Gramps](https://github.com/shmuelmetz/FT-2-to-Gramps) — Migration from Family Tree/2 to Gramps | private |
+
+¹ Will become public.
 
 ## Projects
 
-- [LCS](https://github.com/shmuelmetz/LCS) - A unification of fiber bundles and manifold
-- [M-Atlas](https://github.com/shmuelmetz/M-Atlas) - The underlying structure of an LCS
-- [CTAN Semantic Markup](https://github.com/shmuelmetz/ctan-semantic-markup) - LaTeX semantic macros
-- [Personal Website](https://github.com/shmuelmetz/website) - Personal web site
+| # | Project | Description | Visibility |
+|---|---------|-------------|------------|
+| 14 | [Safe-REXX](https://github.com/users/shmuelmetz/projects/14) | Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
+| 13 | [AI-Priming](https://github.com/users/shmuelmetz/projects/13) | Language-specific rule sets for priming AI engines | private¹ |
+| 10 | [Pygments IBM Extensions](https://github.com/users/shmuelmetz/projects/10) | Enhancements to Pygments, e.g., lexers | private¹ |
+| 9 | [shmuelmetz's personal tee shirts](https://github.com/users/shmuelmetz/projects/9) | Humorous and political tee shirts | private |
+| 8 | [shmuelmetz's Personal Website](https://github.com/users/shmuelmetz/projects/8) | Personal website, shirts, and tools | private |
+| 7 | [M-Atlas](https://github.com/users/shmuelmetz/projects/7) | [1906.11690](https://arxiv.org/abs/1906.11690) Towards a taxonomy of atlases and of morphisms between them | private¹ |
+| 6 | [LCS](https://github.com/users/shmuelmetz/projects/6) | [1801.05775](https://arxiv.org/abs/1801.05775) Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery | private¹ |
+| 5 | [ctan-semantic-markup](https://github.com/users/shmuelmetz/projects/5) | Semantic markup macros written in expl3 | private¹ |
+| — | FT-2-to-Gramps | Migration from Family Tree/2 to Gramps | private |
 
-## Contact
+¹ Will become public.
 
-- **Name:** Seymour J. Metz (שמואל בן ל״ביש)
+## Mailing lists
+
+**LISTSERV:**
+- **TSO-REXX** — TSO/E REXX; active but low volume.
+  To subscribe: email [LISTSERV@VM.MARIST.EDU](mailto:LISTSERV@VM.MARIST.EDU) with body `SUBSCRIBE TSO-REXX Firstname Lastname`
+  To signoff: same address, body `SIGNOFF TSO-REXX`
+- **IBM-MAIN** — IBM mainframe topics.
+  To subscribe: email [listserv@listserv.ua.edu](mailto:listserv@listserv.ua.edu) with body `SUBSCRIBE IBM-MAIN Firstname Lastname`
+  To signoff: same address, body `SIGNOFF IBM-MAIN`
+
+**RexxLA (groups.io):**
+- [rexxla-members](https://groups.io/g/rexxla-members) — RexxLA members list; join at [rexxla.org](https://www.rexxla.org/members/index.rsp)
+- [rexxla-arb](https://groups.io/g/rexxla-arb) — RexxLA Architecture Review Board list
+
+## Internet presence
+
 - **Email:** [smetz3@gmu.edu](mailto:smetz3@gmu.edu)
-- **Web:** [http://mason.gmu.edu/~smetz3](http://mason.gmu.edu/~smetz3)
+- **Web:** [https://mason.gmu.edu/~smetz3](https://mason.gmu.edu/~smetz3)
+- **LinkedIn:** [seymour-metz-a89915152](https://www.linkedin.com/in/seymour-metz-a89915152)
 - **ORCID:** [0000-0002-6358-8257](https://orcid.org/0000-0002-6358-8257)
-- **arXiv Author ID:** [1801.0577](https://arxiv.org/a/1801.0577)
-- **Public Author Identifier:** [http://arxiv.org/a/metz_s_1](http://arxiv.org/a/metz_s_1)
+- **arXiv:** [metz_s_1](https://arxiv.org/a/metz_s_1)
+- **GitHub:** [shmuelmetz](https://github.com/shmuelmetz)
+- **Wikipedia:** [Chatul](https://en.wikipedia.org/wiki/User:Chatul)
