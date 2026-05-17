@@ -51,8 +51,8 @@ guidelines governing AI interactions and code generation for my projects.
 | 14 | [Safe-REXX](https://github.com/users/shmuelmetz/projects/14) | Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
 | 13 | [AI-Priming](https://github.com/users/shmuelmetz/projects/13) | Language-specific rule sets for priming AI engines | private¹ |
 | 10 | [Pygments IBM Extensions](https://github.com/users/shmuelmetz/projects/10) | Enhancements to Pygments, e.g., lexers | private¹ |
-| 9 | [shmuelmetz's personal tee shirts](https://github.com/users/shmuelmetz/projects/9) | Humorous and political tee shirts | private |
-| 8 | [shmuelmetz's Personal Website](https://github.com/users/shmuelmetz/projects/8) | Personal website, shirts, and tools | private |
+| 9 | [personal tee shirts](https://github.com/users/shmuelmetz/projects/9) | Humorous and political tee shirts | private |
+| 8 | [Personal Website](https://github.com/users/shmuelmetz/projects/8) | Personal website, shirts, and tools | private |
 | 7 | [M-Atlas](https://github.com/users/shmuelmetz/projects/7) | [1906.11690](https://arxiv.org/abs/1906.11690) Towards a taxonomy of atlases and of morphisms between them | private¹ |
 | 6 | [LCS](https://github.com/users/shmuelmetz/projects/6) | [1801.05775](https://arxiv.org/abs/1801.05775) Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery | private¹ |
 | 5 | [ctan-semantic-markup](https://github.com/users/shmuelmetz/projects/5) | Semantic markup macros written in expl3 | private¹ |
