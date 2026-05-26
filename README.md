@@ -1,7 +1,7 @@
 # Seymour J. Metz
 Hebrew: Shmuel (שמואל בן ל״ביש)
 
-I write packages and tools in multiple programming languages, technical papers on computing and mathematics, among other things. My personal web site contains parody songs that I have written and tee shirts that I have designed, both humorous and political.
+I write packages and tools in multiple programming languages and technical papers on computing and mathematics, among other things. My personal web site contains creative works that I have produced, e.g., parody songs that I have written, tee shirts that I have designed, both humorous and political.
 
 ## Interests
 
@@ -32,8 +32,11 @@ guidelines governing AI interactions and code generation for my projects.
 
 ## Papers
 
+I have published technical papers on computing and mathematics.
+
 - *A PC Neophyte's Guide to Self Defense*, PC Systems & Support (October 1993)
-- *Practicing Safe REXX*, OS/2 Magazine, Volume 2 Number 2 (February 1995) — [part 1](http://www.rexxla.org/Newsletter/9812safe.html), [part 2](http://www.rexxla.org/Newsletter/9901safe.html)
+- *Practicing Safe REXX on the Desktop, or Will They Still Respect My Code in the Morning?*, OS/2 Magazine, Volume 2 Number 2 (February 1995), p. 40 ([2up](https://archive.org/details/OS2Mag/V2N02_OS2Mag_Feb_1995/page/40/mode/2up), [PDF](https://archive.org/download/OS2Mag/V2N02_OS2Mag_Feb_1995.pdf#page=42)) — reprinted in RexxLA Newsletter, [part 1](http://www.rexxla.org/Newsletter/9812safe.html) (December 1998), [part 2](http://www.rexxla.org/Newsletter/9901safe.html) (January 1999)
+- *Practicing Safe REXX in the Enterprise, or Will They Still Respect My Code in the Morning?*, NaSPA
 - [1801.05775](https://arxiv.org/abs/1801.05775) — [*Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery*](https://arxiv.org/pdf/1801.05775)
 - [1906.11690](https://arxiv.org/abs/1906.11690) — [*Towards a taxonomy of atlases and of morphisms between them*](https://arxiv.org/pdf/1906.11690)
 
