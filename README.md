@@ -1,7 +1,7 @@
 # Seymour J. Metz
 Hebrew: Shmuel (שמואל בן ל״ביש)
 
-I write packages and tools in multiple programming languages and technical papers on computing and mathematics, among other things. My personal web site contains creative works that I have produced, e.g., parody songs that I have written, tee shirts that I have designed, both humorous and political.
+I write packages and tools in multiple programming languages and technical papers on computing and mathematics, among other things. My personal web site contains creative works that I have produced, e.g., parody songs, tee shirts both humorous and political.
 
 ## Interests
 
