@@ -1,7 +1,7 @@
 # Seymour J. Metz
 Hebrew: Shmuel (שמואל בן ל״ביש)
 
-I write packages and tools in multiple programming languages and technical papers on computing and mathematics, among other things. My personal web site contains creative works that I have produced, e.g., parody songs, tee shirts both humorous and political.
+I write packages and tools in multiple programming languages and technical papers on computing and mathematics, among other things. My personal web site contains creative works that I have produced, e.g., parody songs, tee shirts, both humorous and political.
 
 ## Interests
 
@@ -36,7 +36,7 @@ I have published technical papers on computing and mathematics.
 
 - *A PC Neophyte's Guide to Self Defense*, PC Systems & Support (October 1993)
 - *Practicing Safe REXX on the Desktop, or Will They Still Respect My Code in the Morning?*, OS/2 Magazine, Volume 2 Number 2 (February 1995), p. 40 ([2up](https://archive.org/details/OS2Mag/V2N02_OS2Mag_Feb_1995/page/40/mode/2up), [PDF](https://archive.org/download/OS2Mag/V2N02_OS2Mag_Feb_1995.pdf#page=42)) — reprinted in RexxLA Newsletter, [part 1](http://www.rexxla.org/Newsletter/9812safe.html) (December 1998), [part 2](http://www.rexxla.org/Newsletter/9901safe.html) (January 1999)
-- *Practicing Safe REXX in the Enterprise, or Will They Still Respect My Code in the Morning?*, NaSPA
+- *Practicing Safe REXX in the Enterprise, or Will They Still Respect My Code in the Morning?*, NaSPA (issue and page TBD)
 - [1801.05775](https://arxiv.org/abs/1801.05775) — [*Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery*](https://arxiv.org/pdf/1801.05775)
 - [1906.11690](https://arxiv.org/abs/1906.11690) — [*Towards a taxonomy of atlases and of morphisms between them*](https://arxiv.org/pdf/1906.11690)
 
@@ -47,6 +47,7 @@ I have published technical papers on computing and mathematics.
 | [Local-Coordinate-Spaces](https://github.com/shmuelmetz/Local-Coordinate-Spaces) — [1801.05775](https://arxiv.org/abs/1801.05775) Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery; [1906.11690](https://arxiv.org/abs/1906.11690) Towards a taxonomy of atlases and of morphisms between them | public |
 | [LaTeX-Semantic-Markup](https://github.com/shmuelmetz/LaTeX-Semantic-Markup) — Semantic markup macros written in expl3 | public |
 | [AI-Priming](https://github.com/shmuelmetz/AI-Priming) — Language-specific rule sets for priming AI engines | public |
+| [ISPF-LPEX-mapping](https://github.com/shmuelmetz/ISPF-LPEX-mapping) — Tables of LPEX equivalents to ISPF/PDF EDIT commands | public |
 | [Safe-REXX](https://github.com/shmuelmetz/Safe-REXX) — Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
 | [Tools](https://github.com/shmuelmetz/Tools) — Personal tools | public |
 | [Pygments-Extensions](https://github.com/shmuelmetz/Pygments-Extensions) — Enhancements to Pygments, e.g., lexers | public |
@@ -59,6 +60,8 @@ I have published technical papers on computing and mathematics.
 
 | # | Project | Description | Visibility |
 |---|---------|-------------|------------|
+| 17 | [Rexx-lint](https://github.com/users/shmuelmetz/projects/17) | Rexx/ooRexx linter | private¹ |
+| 16 | [ISPF-LPEX-mapping](https://github.com/users/shmuelmetz/projects/16) | Tables of LPEX equivalents to ISPF/PDF EDIT commands | private¹ |
 | 15 | [FT-2-to-Gramps](https://github.com/users/shmuelmetz/projects/15) | Migration from Family Tree/2 to Gramps | private |
 | 14 | [Safe-REXX](https://github.com/users/shmuelmetz/projects/14) | Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
 | 13 | [AI-Priming](https://github.com/users/shmuelmetz/projects/13) | Language-specific rule sets for priming AI engines | private¹ |
