@@ -47,7 +47,7 @@ I have published technical papers on computing and mathematics.
 | [Local-Coordinate-Spaces](https://github.com/shmuelmetz/Local-Coordinate-Spaces) — [1801.05775](https://arxiv.org/abs/1801.05775) Local Coordinate Spaces: a proposed unification of manifolds and fiber bundles, and associated machinery; [1906.11690](https://arxiv.org/abs/1906.11690) Towards a taxonomy of atlases and of morphisms between them | public |
 | [LaTeX-Semantic-Markup](https://github.com/shmuelmetz/LaTeX-Semantic-Markup) — Semantic markup macros written in expl3 | public |
 | [AI-Priming](https://github.com/shmuelmetz/AI-Priming) — Language-specific rule sets for priming AI engines | public |
-| [ISPF-LPEX-mapping](https://github.com/shmuelmetz/ISPF-LPEX-mapping) — Tables of LPEX equivalents to ISPF/PDF EDIT commands | public |
+| [ISPF-IDz-mapping](https://github.com/shmuelmetz/ISPF-IDz-mapping) — Tables of IDz editor (LPEX, HLASM Editor) equivalents to ISPF/PDF EDIT commands | public |
 | [Safe-REXX](https://github.com/shmuelmetz/Safe-REXX) — Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
 | [Tools](https://github.com/shmuelmetz/Tools) — Personal tools | public |
 | [Pygments-Extensions](https://github.com/shmuelmetz/Pygments-Extensions) — Enhancements to Pygments, e.g., lexers | public |
@@ -61,7 +61,7 @@ I have published technical papers on computing and mathematics.
 | # | Project | Description | Visibility |
 |---|---------|-------------|------------|
 | 17 | [Rexx-lint](https://github.com/users/shmuelmetz/projects/17) | Rexx/ooRexx linter | private¹ |
-| 16 | [ISPF-LPEX-mapping](https://github.com/users/shmuelmetz/projects/16) | Tables of LPEX equivalents to ISPF/PDF EDIT commands | private¹ |
+| 16 | [ISPF-IDz-mapping](https://github.com/users/shmuelmetz/projects/16) | Tables of IDz editor (LPEX, HLASM Editor) equivalents to ISPF/PDF EDIT commands | private¹ |
 | 15 | [FT-2-to-Gramps](https://github.com/users/shmuelmetz/projects/15) | Migration from Family Tree/2 to Gramps | private |
 | 14 | [Safe-REXX](https://github.com/users/shmuelmetz/projects/14) | Safe REXX on the Desktop and in the Enterprise: merged and updated edition | private¹ |
 | 13 | [AI-Priming](https://github.com/users/shmuelmetz/projects/13) | Language-specific rule sets for priming AI engines | private¹ |
