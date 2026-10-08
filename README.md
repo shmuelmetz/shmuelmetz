@@ -95,5 +95,5 @@ I have published technical papers on computing and mathematics.
 - **ORCID:** [0000-0002-6358-8257](https://orcid.org/0000-0002-6358-8257)
 - **arXiv:** [metz_s_1](https://arxiv.org/a/metz_s_1)
 - **GitHub:** [shmuelmetz](https://github.com/shmuelmetz)
-- **Stack Exchange:** [shmuel](https://stackexchange.com/users/110591/shmuel) — [Mathematica](https://mathematica.stackexchange.com/users/110591/shmuel), [Mathematics](https://math.stackexchange.com/users/110591/shmuel), [TeX](https://tex.stackexchange.com/users/110591/shmuel), [Unix & Linux](https://unix.stackexchange.com/users/110591/shmuel)
+- **Stack Exchange:** [shmuel](https://stackexchange.com/users/8873368/shmuel) — [Mathematica](https://mathematica.stackexchange.com/users/89977/shmuel), [Mathematics](https://math.stackexchange.com/users/629577/shmuel), [TeX](https://tex.stackexchange.com/users/110591/shmuel), [Unix & Linux](https://unix.stackexchange.com/users/361125/shmuel)
 - **Wikipedia:** [Chatul](https://en.wikipedia.org/wiki/User:Chatul)
